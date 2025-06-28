@@ -1,6 +1,6 @@
 return {
   {
-    "amitds1997/remote-nvim.nvim",
+    "hmk114/remote-nvim.nvim",
     version = "*", -- Pin to GitHub releases
     dependencies = {
       "nvim-lua/plenary.nvim", -- For standard functions
